@@ -1,0 +1,5 @@
+{
+    "apiKey": "your alert source integration key",
+    "eventType": "ALERT",
+    "summary": "Test alert"
+}
