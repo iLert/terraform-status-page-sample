@@ -10,4 +10,6 @@ terraform {
 provider "ilert" {
   organization = var.organization
   api_token    = var.api_token
+  # username     = var.username
+  # password     = var.password
 }
